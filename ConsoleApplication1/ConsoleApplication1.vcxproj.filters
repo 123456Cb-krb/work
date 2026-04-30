@@ -20,9 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\..\..\Downloads\Crop.csv">
-      <Filter>Source Files</Filter>
-    </None>
+    <None Include="Crop.csv" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CropRecord.h">

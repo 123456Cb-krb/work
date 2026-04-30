@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/" />
+  <Project Path="ConsoleApplication1/ConsoleApplication1.vcxproj" Id="85f1dd50-e7f6-4068-9914-ff061c9daa38" />
+  <Project Path="string_quiz/string_quiz.vcxproj" Id="d92c5b7c-9a8e-4a48-a72c-9f7e2a36cc48" />
+  <Project Path="work/work.vcxproj" Id="50952747-2100-44fa-adf0-094a68efde96" />
+</Solution>
